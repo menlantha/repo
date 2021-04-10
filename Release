@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: CODENAME_HERE
+Components: main
+Date: Sat, 10 Apr 2021 06:37:32 +0000
+Description: DESCRIPTION_HERE
+Label: LABEL_HERE
+Origin: ORIGIN_HERE
+Suite: stable
+Version: 1.0
+MD5Sum:
+ f1792109e3514d74eb0d5972a1a32855             1127 Packages
+ 4dfcce7441e1131ec3e90b685e7c72c7              732 Packages.bz2
+ 3df92bea673e9833f35637a457e2450e              652 Packages.gz
+ d91e0f46abe62745837bd1c012cf6d64              708 Packages.xz
+ 87685081e593a3002326fb71ee59a807              654 Packages.zst
+ 9c1ba36e7f33fe6443c261ff1c6afaa1              202 Release
+SHA1:
+ f9ffa92ae38210443d0d145311e742c575f754ab             1127 Packages
+ 5bf95a42c6e03fc0285fa58c7288fb4264e2afec              732 Packages.bz2
+ 0f1f68def08a5534f48863dcbc57743762b2b6a3              652 Packages.gz
+ 28cf687057044987dc88e7428f9240f3748b62b7              708 Packages.xz
+ ab2886aff2f44c97cee1edfdd2af57b7e177eeec              654 Packages.zst
+ b60f7ac79f0aa08e8800ca9832004271c1e2e663              202 Release
+SHA256:
+ 0490e5e6d657e071730a637f8ee5696c7c54114e78b57b5b8dc803235ae2bd0b             1127 Packages
+ edae8be4042d4d8bb687571746389824d02e16cba129b3a8cb1d06e156bfc6a1              732 Packages.bz2
+ 1eeaeffe61a250748a79b2a144ef0d749844a23ecdf488360320d23b077c9ee9              652 Packages.gz
+ aa245e2161c72c867729e40a970fd39160ce1e4bdf1c3503863d7510c8ab04a9              708 Packages.xz
+ a3388e3fb377341cf33c53feaa224e635e8074586d6e52d2d2d8de6fe30af7d1              654 Packages.zst
+ a48958ae4201623226b6e44c923a339bf39263ec5df4e70e940da2662b855c56              202 Release
+SHA512:
+ 1386eb242d5af730d1b5e3348a12ddcb9eda75c2bba3063d2bcfef033f933ced1d52c8efa8c466b9e8afe20eba3c906135c7d3e8da99f61662eeacb851af822b             1127 Packages
+ 3d61f56d68155e6853e8e9e9afbc0bd2c929ad134251de1c3df3351f9d673568ba29307b2a993757f5d4470a3cfc068a46fb7e1fd946c826e07b15ce2d1636fd              732 Packages.bz2
+ 2a7c8514d694e2f6909f4928f8aebb2caf895ec3ce9e47f804b1e304e0322edb2911feb93846db567f65da9345df553617152d8f9803e0a6c4601eca66f11c48              652 Packages.gz
+ 23ab2606cdda2f9524232aedf2427b77512ae9c67cfb81786b4d03bda720d89839f1a9c264faca28a3ad3708171b1c0bf210b98588757362849f70e0742c369f              708 Packages.xz
+ 0e7ca86f91cde9cbc98c2c3d45a60e3691165ab24e3e8347d3e1e0b0a1141e083766d3e0d37aad86cc42702cf632a06dbde22f0fd5a0606e018201e5c1e6b4e9              654 Packages.zst
+ 2073247804f9b31c968a751f83b66d5f1f520504012083c869c57f0ea562143224fa6129a5811134c2457a29aa93dc44625c11312f0b48504c4df3462f0d9f08              202 Release

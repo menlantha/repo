@@ -1,0 +1,21 @@
+Package: com.fcydia.afc2forios12
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: 插件
+Maintainer: 清醒 <qx@fcydia.com>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debians/com.fcydia.afc2forios12_1.3.1_iphoneos-arm.deb
+Size: 27192
+MD5sum: 560cef6b9149607a5c665477967336e1
+SHA1: 3547173e9ec5bb4ff6c4de73eec62bda8e619570
+SHA256: 11eb8c5eeecea76f65f737ccf363903e3df858f785ebfbc8ce94b1ef55b9fc3d
+SHA512: 2c723c2e37d4b3b65e1916f8720738d3872a4891064d9593b211890feaffb9fa5ace982affdf7ecc096038b0a41ef503b3d4f74bab69d1c94b71608a484863e6
+Name: AFC2 iOS11~14
+Author: Saurik, Cannathea
+Sponsor: Fcydia <admin@fcydia.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
